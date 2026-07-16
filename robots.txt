@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-1hvlf3.venom88win.space/sitemap.xml
